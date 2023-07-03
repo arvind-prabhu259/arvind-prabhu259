@@ -1,6 +1,6 @@
 ### Hi there 👋
-I'm a 3rd year at NITK Suratkal.
-I am currently learning about and implementing Deep Neural Networks and other ML related concepts
+I am a 3rd year at NITK Suratkal.
+I am currently learning about and implementing Deep Neural Networks and other ML related concepts.
 <!--
 **arvind-prabhu259/arvind-prabhu259** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
