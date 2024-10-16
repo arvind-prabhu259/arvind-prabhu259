@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a currently a 3rd year B.Tech IT at NITK Suratkal.
+I am a currently a 4th year B.Tech IT at NITK Suratkal.
 I am passionate about:
 - Machine Learning
 - Cloud systems
